@@ -2,7 +2,7 @@
 
 Automatic Number Plate Recognition using YOLO + EasyOCR
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kyawminht/ANPR-License-Plate-Detection/blob/main/ANPR_System.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kyawminht/ANPR-License-Plate-Detection/blob/main/Untitled4.ipynb)
 
 ## 🚀 Quick Start
 
